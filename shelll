@@ -1,0 +1,5 @@
+ci: add workflow to connect and sync multiple repositories
+
+- Clone several repos (public/private) using actions/checkout
+- Support custom sync scripts and optional auto-commit
+- Use secrets for private repository access
